@@ -41,7 +41,7 @@ The app will be available at the URL shown in the terminal (typically `http://lo
 
 ## Seed Data
 
-The app comes pre-loaded with example data for the week of November 9, 2026:
+On a first-ever run (nothing saved yet) the app shows example data for the week of November 9, 2026. It is never re-applied to saved data, so cleared days stay cleared:
 - **Monday**: 2,630 food / 0 burn
 - **Tuesday**: 870 food / 137 burn
 - **Wednesday**: 1,200 food / 0 burn
